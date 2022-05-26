@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   faf560ca1c2e4860a6f908d0c7183c97:
     parts: {}
+    work_id: D1807
     span:
-    - vol: 18
+    - base: 7b06
       start: 1
       end: 5621
-    work_id: D1807
